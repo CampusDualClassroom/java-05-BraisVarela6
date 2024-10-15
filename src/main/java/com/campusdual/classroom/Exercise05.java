@@ -2,8 +2,8 @@ package com.campusdual.classroom;
 
 public class Exercise05 {
     public static void main(String[] args) {
-        int n1 = 0;
-        int n2 = -10;
+        int n1 = 4;
+        int n2 = 2;
         checkLessOrGreaterEqual(n1,n2);
         checkMultiply(n1,n2);
         checkPositiveNegative(n1);
